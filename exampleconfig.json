@@ -1,0 +1,6 @@
+{
+	"host": "blappytest.redis.cache.windows.net",
+	"port":6380,
+	"password":"ff1ff2F5FFFFFFFFFFFF5FFF1FFFFFFFFFFF1FFFF+F=",
+	"ssl":true	
+}
